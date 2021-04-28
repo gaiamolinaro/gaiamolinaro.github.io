@@ -32,11 +32,16 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h4 {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-    font-family:'Merryweather', 'Serif';
-    font-weight: bold;
+    font-size: 1.3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h5 {
+    font-size: 1.2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h6 {
+    font-size: 1.1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
@@ -62,37 +67,76 @@ ul.posts li {
 .post-slider {
     position:relative;
 }
-.post-slider .post-wrapper {
+/* Writing */
+.post-slider .post-wrapper-writing {
     width: 84%;
-    height: 330px;
+    height: 400px;
     margin: 0px auto;
     overflow: hidden;
     padding: 10px 0px 10px 0px;
 }
-.post-slider .post-wrapper .post{
+.post-slider .post-wrapper-writing .post{
     /*width: 300px;*/
-    height: 330px;
+    height: 300px;
     margin: 0px 10px;
     display: inline-block;
     background: white;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
-.post-slider .post-wrapper .post .post-info{
+.post-slider .post-wrapper-writing .post .post-info{
     height: 130px;
     padding: 0px 5px;
 }
-.post-slider .post-wrapper .post .slider-image{
+.post-slider .post-wrapper-writing .post .slider-image{
     height: 100%;
 }
-.post-slider .next {
+.post-slider .writing-next {
     position:absolute;
     top: 50%;
     right: 30px;
     color: #AEAEAE;
     cursor: pointer;
 }
-.post-slider .prev {
+.post-slider .writing-prev {
+    position:absolute;
+    top: 50%;
+    left: 30px;
+    color: #AEAEAE;
+    cursor: pointer;
+}
+/* Collages */
+.post-slider .post-wrapper-collages {
+    width: 84%;
+    height: 400px;
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 10px 0px 10px 0px;
+}
+.post-slider .post-wrapper-collages .post{
+    /*width: 300px;*/
+    height: 300px;
+    margin: 0px 10px;
+    display: inline-block;
+    background: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.post-slider .post-wrapper-collages .post .post-info{
+    height: 130px;
+    padding: 0px 5px;
+}
+.post-slider .post-wrapper-collages .post .slider-image{
+    height: 100%;
+}
+.post-slider .collages-next {
+    position:absolute;
+    top: 50%;
+    right: 30px;
+    color: #AEAEAE;
+    cursor: pointer;
+}
+.post-slider .collages-prev {
     position:absolute;
     top: 50%;
     left: 30px;
