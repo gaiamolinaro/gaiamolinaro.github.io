@@ -32,12 +32,16 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h4 {
-    font-size: 1.3em;
+    font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #999;
+    font-weight: bold;
 }
 h5 {
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #999;
+    font-weight: bold;
 }
 h6 {
     font-size: 1.1em;
