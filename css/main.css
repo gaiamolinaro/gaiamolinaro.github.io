@@ -25,6 +25,12 @@ nav ul li, footer ul li {
         margin: 7px 0px 0px 20px;
     }
 }
+@media (max-width: 1200px) {
+    .profile-pic {
+        float: right;
+        margin: 7px 0px 0px 20px;
+    }
+}
 a {
     text-decoration: none;
     color: #999;
