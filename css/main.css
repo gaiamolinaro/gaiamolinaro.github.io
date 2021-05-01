@@ -12,6 +12,19 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+.profile-pic {
+    height: 310px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+@media (min-width: 675px) {
+    .profile-pic {
+        float: right;
+        margin: 7px 0px 0px 20px;
+    }
+}
 a {
     text-decoration: none;
     color: #999;
@@ -74,7 +87,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
 /* Post Slider */
 .post-slider {
     position:relative;
