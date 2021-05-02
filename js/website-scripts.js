@@ -114,3 +114,8 @@ $(document).ready(function () {
         ]
     });
 })
+jQuery(document).ready(function($){
+    jQuery('.post').lazyload({
+        effect:"fadeIn",
+    });
+});
