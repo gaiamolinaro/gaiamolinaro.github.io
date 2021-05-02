@@ -25,10 +25,15 @@ nav ul li, footer ul li {
         margin: 7px 0px 0px 20px;
     }
 }
-@media (max-width: 1500px) {
-    .profile-pic {
-        float: right;
-        margin: 7px 0px 0px 20px;
+@media (min-width: 1300px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+    footer {
+        margin-top: 20px;
+        height: 20px;
     }
 }
 a {
