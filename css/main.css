@@ -35,6 +35,10 @@ nav ul li, footer ul li {
         margin-top: 20px;
         height: 20px;
     }
+    .profile-pic {
+        float: right;
+        margin: 7px 20px 0px 20px;
+    }
 }
 a {
     text-decoration: none;
