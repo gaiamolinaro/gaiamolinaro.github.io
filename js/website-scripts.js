@@ -113,4 +113,9 @@ $(document).ready(function () {
             // instead of a settings object
         ]
     });
+    $('.lazy').slick({
+        lazyLoad: 'ondemand',
+        slidesToShow: 3,
+        slidesToScroll: 1
+    });
 })
