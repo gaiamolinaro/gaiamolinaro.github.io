@@ -114,7 +114,7 @@ $(document).ready(function () {
         ]
     });
     $('.lazy').slick({
-        lazyLoad: 'ondemand',
+        lazyLoad: 'progressive',
         slidesToShow: 3,
         slidesToScroll: 1
     });
