@@ -8,23 +8,23 @@ nav_order: 3
 ---
 <style>
 a {
-	color: #006770;
+	color: var(--global-theme-color);
 }
 
 a:hover {
-	color: #006770;
+	color: var(--global-theme-color);
 	text-decoration: underline;
 }
 
 a.btn {
-	color: #000000;
-	border: 1px solid #000000;
+	color: var(--global-text-color);
+	border: 1px solid var(--global-text-color);
 	margin-left: 0;
 }
 
 a.btn:hover {
-    border:1px solid #006770;
-    color: #006770;
+    border:1px solid var(--global-hover-color);
+    color: var(--global-hover-color);
 }
 
 a.btn-sm{
@@ -40,13 +40,13 @@ a.z-depth-0 {
     }
 
 a.btn:hover {
-	color: #006770;
-	border-color: #006770;
+	color: var(--global-hover-color);
+	border-color: var(--global-hover-color);
 }
 
 h2.category {
-	color: rgba(0, 0, 0, 0.1);
-	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	color: var(--global-divider-color);
+	border-bottom: 1px solid var(--global-divider-color);
 	padding-top: 0.5rem;
 	margin-top: 2rem;
 	margin-bottom: 1rem;
