@@ -2,33 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: # >
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false # true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at the University of California, Berkeley, where I take a computational approach to understand the key to intelligent, motivated cognition as part of Anne Collins's <a href="https://ccn.berkeley.edu/" target="_blank">Computational Cognitive Neuroscience lab</a>. I recently visited Pierre-Yves Oudeyer's <a href="https://flowers.inria.fr/" target="_blank">Flowers AI & CogSci lab</a> at Inria as a Chateaubriand STEM Fellow.
+    
+In the summer of 2024, I interned as a Machine Learning SWE at <a href="https://about.meta.com/metaverse/" target="_blank">Meta</a>, where I worked to improve content recommendations and engagement for 3 billion users. In 2023, I was part of the R&D team at <a href="https://thimus.com/en/home/" target="_blank">Thimus</a>, a world-leading company in cultural and applied neuroscience. In 2022, I was one of the <a href="https://www.novatalent.com/111/italy/student-list/2022" target="_blank">Nova</a> top 11 Italian talents under 25 in Healthcare & Bio Sciences.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before my PhD, I  obtained a Neuroscience BSc from King's College London and a Cognitive and Decision Sciences MSc from UCL, where I worked at Tali Sharot's <a href="http://affectivebrain.com/" target="_blank">Affective Brain lab</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also the author of an Italian children's book titled <a href="https://www.amazon.it/dp/B0DL5CX7SP" target="_blank">La gara di pattinaggio</a>, which was beautifully illustrated by my brother Daniel and is now available on Amazon. All proceeds from the first 100 copies are being donated to <a href="https://www.dottorsorriso.it/" target="_blank">Fondazione Dottor Sorriso</a>.
