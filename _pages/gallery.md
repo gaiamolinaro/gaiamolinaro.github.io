@@ -2,7 +2,7 @@
 layout: page
 title: gallery
 permalink: /gallery/
-description: blog posts, photos, and collages
+description: writing, photos, and collages
 nav: true
 nav_order: 4
 display_categories: [writing, photos, collages]
