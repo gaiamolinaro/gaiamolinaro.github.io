@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-gallery",
           title: "gallery",
-          description: "blog posts, photos, and collages",
+          description: "writing, photos, and collages",
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";
@@ -120,8 +120,8 @@ ninja.data = [{
           description: "",
           section: "Gallery",handler: () => {
               window.location.href = "/gallery/photo_orchha/";
-            },},{id: "gallery-papi-o-clock",
-          title: 'papi o’clock',
+            },},{id: "gallery-photo-papi-o-clock",
+          title: 'photo - papi o’clock',
           description: "",
           section: "Gallery",handler: () => {
               window.location.href = "/gallery/photo_papi_o_clock/";
