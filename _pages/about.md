@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the University of California, Berkeley, where I take a computational approach to understand the key to intelligent, motivated cognition as part of Anne Collins's <a href="https://ccn.berkeley.edu/" target="_blank">Computational Cognitive Neuroscience lab</a>. I recently visited Pierre-Yves Oudeyer's <a href="https://flowers.inria.fr/" target="_blank">Flowers AI & CogSci lab</a> at Inria as a Chateaubriand STEM Fellow.
+I am a PhD student at the University of California, Berkeley, where I take a computational approach to understand the key to intelligent, open-ended cognition and behavior as part of Anne Collins's <a href="https://ccn.berkeley.edu/" target="_blank">Computational Cognitive Neuroscience lab</a>. I recently visited Pierre-Yves Oudeyer's <a href="https://flowers.inria.fr/" target="_blank">Flowers AI & CogSci lab</a> at Inria as a Chateaubriand STEM Fellow.
     
 In the summer of 2024, I interned as a Machine Learning SWE at <a href="https://about.meta.com/metaverse/" target="_blank">Meta</a>, where I worked to improve content recommendations and engagement for 3 billion users. In 2023, I was part of the R&D team at <a href="https://thimus.com/en/home/" target="_blank">Thimus</a>, a world-leading company in cultural and applied neuroscience. In 2022, I was one of the <a href="https://www.novatalent.com/111/italy/student-list/2022" target="_blank">Nova</a> top 11 Italian talents under 25 in Healthcare & Bio Sciences.
 
