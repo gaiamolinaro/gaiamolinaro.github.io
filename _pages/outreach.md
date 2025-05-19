@@ -82,8 +82,8 @@ h2.category a:hover {
 
 <h2 class="category"><a id="conference presentations" href=".#conference presentations">conference presentations</a></h2>
 <ul>
-    <li><b>Reward function compression in human reinforcement learning.</b><br><u>Molinaro, G.</u>, & Collins, A. G. E.<br>Spotlight and poster at <i>RLDM</i>, 2025</li>
     <li><b>When 0 is good: instrumental learning with counterintuitive goals decreases working memory engagement.</b><br>Pan, T-F., <u>Molinaro, G.</u>, & Collins, A. G. E.<br>Talk at <i>CogSci</i>, 2025</li>
+    <li><b>Reward function compression in human reinforcement learning.</b><br><u>Molinaro, G.</u>, & Collins, A. G. E.<br>Spotlight and poster at <i>RLDM</i>, 2025</li>
     <li><b>When 0 is good: instrumental learning with counterintuitive goals decreases working memory engagement.</b><br>Pan, T-F., <u>Molinaro, G.</u>, & Collins, A. G. E.<br>Poster at <i>RLDM</i>, 2025</li>
     <li><b>Investigating the role of representation switching costs in goal persistence bias.</b><br><u>Molinaro, G.</u>, Lidayan, A., & Collins, A. G. E.<br>Poster at <i>RLDM</i>, 2025</li>
     <li><b>Investigating the role of representation switching costs in goal persistence bias.</b><br><u>Molinaro, G.</u>, Lidayan, A., & Collins, A. G. E.<br>Poster at <i>ICLR Re-Align Workshop</i>, 2025 <br><a class="btn btn-sm z-depth-0" role="button" href="https://openreview.net/forum?id=odTK4tps2C" target="_blank" >HTML</a></li>
