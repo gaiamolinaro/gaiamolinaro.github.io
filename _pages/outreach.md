@@ -66,6 +66,7 @@ h2.category a:hover {
 
 <h2 class="category"><a id="invited talks" href=".#invited talks">invited talks</a></h2>
 <ul>
+    <li>Talk at the Meta AI Reading Group. Menlo Park, USA, 2025.</li>
     <li>Talk at the UC Berkeley <a href="https://www.gopniklab.berkeley.edu/" target="_blank">Gopnik Lab</a>. Berkeley, USA, 2025.</li>
     <li>Talk at the Meta <a href="https://ai.meta.com/research/" target="_blank">Brain &#38; AI Team</a>. Paris, France, 2025.</li>
     <li>Talk at the Tel Aviv University <a href="https://www.shahar-lab.com/" target="_blank">Shahar Lab</a>. Tel Aviv, Israel, 2025.</li>
@@ -82,7 +83,7 @@ h2.category a:hover {
 
 <h2 class="category"><a id="conference presentations" href=".#conference presentations">conference presentations</a></h2>
 <ul>
-    <li><b>When 0 is good: instrumental learning with counterintuitive goals decreases working memory engagement.</b><br>Pan, T-F., <u>Molinaro, G.</u>, & Collins, A. G. E.<br>Talk at <i>CogSci</i>, 2025</li>
+    <li><b>When 0 is good: instrumental learning with counterintuitive goals decreases working memory engagement.</b><br>Pan, T-F., <u>Molinaro, G.</u>, & Collins, A. G. E.<br>Talk at <i>CogSci</i>, 2025 <br><a class="btn btn-sm z-depth-0" role="button" href="https://escholarship.org/uc/item/0dr1n611" target="_blank">HTML</a></li>
     <li><b>Reward function compression in human reinforcement learning.</b><br><u>Molinaro, G.</u>, & Collins, A. G. E.<br>Spotlight and poster at <i>RLDM</i>, 2025</li>
     <li><b>Investigating the role of representation switching costs in goal persistence bias.</b><br><u>Molinaro, G.</u>, Lidayan, A., & Collins, A. G. E.<br>Poster at <i>RLDM</i>, 2025</li>
     <li><b>When 0 is good: instrumental learning with counterintuitive goals decreases working memory engagement.</b><br>Pan, T-F., <u>Molinaro, G.</u>, & Collins, A. G. E.<br>Poster at <i>RLDM</i>, 2025</li>
