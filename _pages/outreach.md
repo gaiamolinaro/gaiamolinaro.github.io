@@ -66,7 +66,7 @@ h2.category a:hover {
 
 <h2 class="category"><a id="invited talks" href=".#invited talks">invited talks</a></h2>
 <ul>
-    <li>Talk at the Oxford <a href="https://humaninformationprocessing.com/" target="_blank">Human Information Processing Lab</a>. Oxford, UK, 2025.</li>
+    <li>Talk at the Oxford University <a href="https://humaninformationprocessing.com/" target="_blank">Human Information Processing Lab</a>. Oxford, UK, 2025.</li>
     <li>Talk at the Meta AI Reading Group. Menlo Park, USA, 2025.</li>
     <li>Talk at the UC Berkeley <a href="https://www.gopniklab.berkeley.edu/" target="_blank">Gopnik Lab</a>. Berkeley, USA, 2025.</li>
     <li>Talk at the Meta <a href="https://ai.meta.com/research/" target="_blank">Brain &#38; AI Team</a>. Paris, France, 2025.</li>
