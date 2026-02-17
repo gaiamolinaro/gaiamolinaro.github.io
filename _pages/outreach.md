@@ -106,6 +106,7 @@ h2.category a:hover {
 
 <h2 class="category"><a id="press coverage" href=".#press coverage">press coverage</a></h2>
 <ul>
+    <li><b>Get outside on New Years Day with these guided hikes.</b><br><i>KQED</i>, 2026 <br><a class="btn btn-sm z-depth-0" role="button" href="https://www.kqed.org/news/12068400/get-outside-on-new-years-day-with-these-guided-hikes" target="_blank">HTML</a></li>
     <li><b>Big goals can feel overwhelming. Here's how to stay on track.</b><br><i>Science News Explores</i>, 2026 <br><a class="btn btn-sm z-depth-0" role="button" href="https://www.snexplores.org/article/how-to-set-achieve-goals" target="_blank">HTML</a></li>
     <li><b>Psychology study reveals goal-oriented rewards as key factors in decision-making.</b><br><i>College of Letters & Science</i>, 2023 <br><a class="btn btn-sm z-depth-0" role="button" href="https://ls.berkeley.edu/news/psychology-study-reveals-goal-oriented-rewards-key-factors-decision-making" target="_blank">HTML</a></li>
     <li><b>New study reveals goal-oriented rewards as key factors in decision-making.</b><br><i>Medical Xpress</i>, 2023 <br><a class="btn btn-sm z-depth-0" role="button" href="https://medicalxpress.com/news/2023-07-reveals-goal-oriented-rewards-key-factors.html" target="_blank">HTML</a></li>
