@@ -66,6 +66,8 @@ h2.category a:hover {
 
 <h2 class="category"><a id="invited talks" href=".#invited talks">invited talks</a></h2>
 <ul>
+    <li>Talk at the Rotary Club <a href="https://lamorindasunrise.org/speakers" target="_blank">Lamorinda Sunrise</a>. Lafayette, USA, 2026.</li>
+    <li>Talk at the <a href="https://www.lila.ai/" target="_blank">Lila Sciences</a> Open-Endedness Team. San Francisco, USA, 2026.</li>
     <li>Talk at the Oxford University <a href="https://humaninformationprocessing.com/" target="_blank">Human Information Processing Lab</a>. Oxford, UK, 2025.</li>
     <li>Talk at the Meta AI Reading Group. Menlo Park, USA, 2025.</li>
     <li>Talk at the UC Berkeley <a href="https://www.gopniklab.berkeley.edu/" target="_blank">Gopnik Lab</a>. Berkeley, USA, 2025.</li>
