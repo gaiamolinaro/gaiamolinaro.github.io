@@ -162,8 +162,10 @@
 }
 
 @article{molinaro2025reward,
+  bibtex_show={true},
   title={Reward function compression facilitates goal-dependent reinforcement learning},
   author={Molinaro, Gaia and Collins, Anne GE},
+  abstract={Reinforcement learning agents learn from rewards, but humans can uniquely assign value to novel, abstract outcomes in a goal-dependent manner. However, this flexibility is cognitively costly, making learning less efficient. Here, we propose that goal-dependent learning is initially supported by a capacity-limited working memory system. With consistent experience, learners create a "compressed" reward function (a simplified rule defining the goal) which is then transferred to long-term memory and applied automatically upon receiving feedback. This process frees up working memory resources, boosting learning efficiency. We test this theory across six experiments. Consistent with our predictions, our findings demonstrate that learning is parametrically impaired by the size of the goal space, but improves when the goal space structure allows for compression. We also find faster reward processing to correlate with better learning performance, supporting the idea that as goal valuation becomes more automatic, more resources are available for learning. We leverage computational modeling to support this interpretation. Our work suggests that efficient goal-directed learning relies on compressing complex goal information into a stable reward function, shedding light on the cognitive mechanisms of human motivation. These findings generate new insights into the neuroscience of intrinsic motivation and could help improve behavioral techniques that support people in achieving their goals.},
   journal={arXiv preprint arXiv:2509.06810v2},
   html={https://arxiv.org/abs/2509.06810v2},
   year={2025},
@@ -172,8 +174,10 @@
 }
 
 @article{molinaro2026language,
+  bibtex_show={true},
   title={Language model goal selection differs from humans' in a self-driven learning task},
   author={Molinaro, Gaia and August, Dave and Perszyk, Danielle and Collins, Anne GE},
+  abstract={Whether in agentic workflows, social studies, or chat settings, large language models (LLMs) are increasingly being asked to replace humans in choosing which goals to pursue, rather than completing predefined tasks. However, the assumption that LLMs accurately reflect human preferences for goal setting remains largely untested. We assess the validity of LLMs as proxies for human goal selection in a controlled, self-directed learning task borrowed from cognitive science. Across five models (GPT-5, Gemini 2.5 Pro, Claude Sonnet 4.5, Qwen3 32B, and Centaur), we find substantial divergence from human behavior. While people gradually explore and learn to achieve goals with diversity across individuals, most models exploit a single identified solution or show surprisingly low performance, with distinct patterns across models and little variability across instances of the same model. Chain-of-thought reasoning and persona steering provide limited improvements, and our conclusions hold across experimental settings. While they await confirmation in applied settings, these findings highlight the uniqueness of human goal selection and caution against its replacement with current models.},
   journal={arXiv preprint arXiv:2603.03295v2},
   html={https://arxiv.org/abs/2603.03295v2},
   year={2026},
@@ -182,8 +186,10 @@
 }
 
 @inproceedings{molinaro2026investigating,
+  bibtex_show={true},
   title={Investigating the role of task representation switch costs in goal persistence},
   author={Molinaro, Gaia and Lidayan, Aly, and Collins, Anne GE},
+  abstract={Goal pursuit profoundly shapes human cognition. This is often beneficial – for example, by focusing information processing. However, goal-dependent computations occasionally lead to seemingly maladaptive behavior, such as a bias toward goal persistence – the tendency to continue pursuing the current goal even when suboptimal. While various psychological explanations have been proposed for goal persistence, the underlying cognitive mechanisms remain unclear. Here, we explore one potential hypothesis. We posit that switching goals incurs the computational cost of reconfiguring internal representations, e.g., to new stimulus-action mappings, and that this cost motivates persisting in a goal even when another is more valuable. Thus, we predict that 1) higher reconfiguration costs will increase persistence bias, and 2) given the choice, participants will prefer switching to lower-cost goals. To test these predictions, we developed a task where participants chose between competing goals, and sudden changes in the task dynamics encouraged goal abandonment toward more valuable options. Crucially, some goals shared the same action selection rule, while others required different rules, allowing us to test how similar vs. different internal representations influenced goal persistence. Across two experiments (N = 125), we replicated goal persistence biases and found that stimulus-action representation switch costs influence both goal persistence and selection preferences. However, they only accounted for a small part of the total goal persistence, suggesting that such biases are predominantly driven by other factors. },
   booktitle={CogSci},
   volume={48},
   year={2026},
@@ -193,8 +199,11 @@
 }
 
 @article{perez2026cultural,
+  bibtex_show={true},
   title={The cultural evolution of human goals},
   publisher={OSF},
+  journal={PsyArXiv},
+  abstract={Humans pursue remarkably diverse goals that vary over time and across cultures. These goals are both drivers and products of cultural evolutionary dynamics, yet most theories of cultural evolution have focused on the influence of culture on how individuals reach their goals, rather than on which goals they pursue. We argue that understanding the cultural dynamics of goals requires grounding them in the cognitive mechanisms through which individuals generate, evaluate, and select them. To this end, we draw on research on intrinsic motivation and curiosity in cognitive science and artificial intelligence to introduce the concept of cultural autotelic agents: individuals whose goal generation, anticipation, and selection mechanisms are shaped by, and in turn shape, their cultural environment. This framework reveals the key but underappreciated role of intrinsic motivation in promoting the diversity of goals and behaviors in ways that help sustain the open-ended nature of human culture.},
   year={2026},
   html={https://osf.io/preprints/psyarxiv/4t857},
   author={Perez, Jéréremy and Colas, Cédric and Molinaro, Gaia and Oudeyer, Pierre-Yves and Derex, Maxime and Moulin-Frier, Clément},
@@ -203,9 +212,11 @@
 }
 
 @article{xu2026toward,
+  bibtex_show={true},
   title={Toward human-AI complementarity across diverse tasks},
   author={Xu, Yuzheng and Dahmani, Annya and Blanchard, Matthew D and Dern, Niclas and Nastase, Edy and Bianco, Francesca and Pavlovic, Maja and Krishna, Sukanya and Modesitt, Eric and Christ, Miranda Anna and others},
   journal={arXiv preprint arXiv:2605.04070},
+  abstract={Human-AI complementarity, the idea that combining human and AI judgments can outperform either alone, offers a promising pathway toward robust oversight of advanced AI systems. However, whether human-AI complementarity can be achieved on realistic tasks remains an open question. We investigate this through two approaches: hybridization and two AI assistance methods (top-2 assistance and subtask delegation), evaluated on a multi-domain dataset of 1,886 samples spanning knowledge, factuality, long-context reasoning, and deception detection. We find only modest complementarity gains. Baseline hybridization yields just +0.4 percentage points (pp) over AI alone (69.3% vs 68.9%), limited both by a small complementarity region (only 8.9% of items where AI errs but humans do not) and the inability of confidence-based routing to identify it, since the model's confidence is similarly distributed across correct and incorrect predictions. Applied when AI has low confidence, top-2 assistance increases human accuracy from 28.4% to 38.3%, surpassing AI alone (37.7%) – but primarily because humans adopt correct AI suggestions, not because they successfully override AI errors. These findings suggest that the primary bottleneck is not human task accuracy per se, but the ability to route decisions to humans when it matters and to design assistance methods that enable humans to catch AI mistakes. Our quantitative and qualitative analyses pinpoint where and why each method succeeds or fails, offering concrete targets for future work. We will release our dataset and code upon request to support progress toward more effective human-AI collaboration for AI oversight.},
   year={2026},
   html={https://arxiv.org/abs/2605.04070},
   google_scholar_id={fQnpU6IAAAAJ:8k81kl-MbHgC},
