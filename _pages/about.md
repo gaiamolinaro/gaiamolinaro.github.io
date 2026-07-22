@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Applied Scientist at <a href="https://www.microsoft.com/en-us/research/group/ideas-research/?msockid=3ceacc5e491d64780ca0db1d48d2654f" target="_blank">Microsoft</a>, where my research aims to enhance human capabilities through AI.
+I am a Senior Applied Scientist at <a href="https://www.microsoft.com/en-us/research/people/gaiamolinaro/" target="_blank">Microsoft</a>, where my research aims to enhance human capabilities through AI.
 
 I got my PhD from the University of California, Berkeley's <a href="https://ccn.berkeley.edu/" target="_blank">Computational Cognitive Neuroscience lab</a>, where I used behavioral experiments and computational modeling to understand the key to flexible, open-ended reinforcement learning in humans and machines. While completing my PhD, I visited the <a href="https://flowers.inria.fr/" target="_blank">Flowers AI & CogSci lab</a> at Inria as a Chateaubriand STEM Fellow. 
 
