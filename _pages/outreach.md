@@ -86,6 +86,7 @@ h2.category a:hover {
 
 <h2 class="category"><a id="conference presentations" href=".#conference presentations">conference presentations</a></h2>
 <ul>
+    <li><b>Language Model Goal Selection Differs from Humans' in a Self-Directed Learning Task.</b><br><u>Molinaro, G.</u>, August, D., Perszyk, D., & Collins, A. G. E.<br>Talk at the <i>Human-AI Complementarity Workshop</i>, 2026 <br><a class="btn btn-sm z-depth-0" role="button" href="https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html" target="_blank" >HTML</a></li>
     <li><b>Keep it in sight: Reward function compression through goal visibility.</b><br>Chen, X., Li, C., <u>Molinaro, G.</u>, & Collins, A. G. E.<br>Poster at <i>CCN</i>, 2026 <br><a class="btn btn-sm z-depth-0" role="button" href="https://2026.ccneuro.org/poster/?id=VwYInCZC8O" target="_blank" >HTML</a></li>
     <li><b>Investigating the role of representation switching costs in goal persistence bias.</b><br><u>Molinaro, G.</u>, Lidayan, A., & Collins, A. G. E.<br>Poster at <i>CogSci</i>, 2026 <br><a class="btn btn-sm z-depth-0" role="button" href="https://escholarship.org/uc/item/4mv3s3fq" target="_blank" >HTML</a></li>
     <li><b>Reward function compression in human reinforcement learning.</b><br><u>Molinaro, G.</u>, & Collins, A. G. E.<br>Nanosymposium talk at <i>SfN</i>, 2025</li>
