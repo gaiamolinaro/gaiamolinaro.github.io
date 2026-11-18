@@ -2,7 +2,7 @@
 layout: page
 permalink: /outreach/
 title: outreach
-description: invited talks, conference presentations, and press coverage
+description: guest lectures, invited talks, conference presentations, and press coverage
 nav: true
 nav_order: 3
 ---
@@ -63,6 +63,11 @@ h2.category a:hover {
     color: inherit;
 }
 </style>
+
+<h2 class="category"><a id="guest lectures" href=".#guest lectures">guest lectures</a></h2>
+<ul>
+	<li>Princeton University <a href="https://humans.cs.princeton.edu/teaching/fall2026_reasoning_with_data.html" target="_blank">COS 424 Reasoning with Data</a>. Princeton, USA, 2026.</li>
+</ul>
 
 <h2 class="category"><a id="invited talks" href=".#invited talks">invited talks</a></h2>
 <ul>
